@@ -1,5 +1,3 @@
-import 'package:flutter/cupertino.dart';
-
 class Todo {
   int _id;
   String _title;
